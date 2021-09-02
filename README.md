@@ -19,7 +19,7 @@ I am a mechanical engineering student at University of São Paulo and my main ca
 * **Data Collect and Storage:** SQL, MySQL, Hadoop.
 * **Data Processing and Analysis:** Python.
 * **Development:** Git and Linux.
-* **Data Vizualization:** Matplotlib, Plotly, Seaborn and Tableau.
+* **Data Visualization:** Matplotlib, Plotly, Seaborn and Tableau.
 * **Machine Learning Modeling:** Classification, Regression and Clustering.
 
 ## Skills
