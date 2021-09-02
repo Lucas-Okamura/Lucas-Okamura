@@ -86,7 +86,10 @@ I am a mechanical engineering student at University of São Paulo and my main ca
  <a href="https://www.instagram.com/lucas_okamura/" target="blank">
   <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
+ <a href="mailto:lucasokamura@gmail.com" target="blank">
+  <img align="center" alt="Pramod's Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
+ </a>
   <br/>
   <br/>
-
----
+ 
+##
