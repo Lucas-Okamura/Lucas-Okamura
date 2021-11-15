@@ -21,7 +21,15 @@ I am a mechanical engineering student at University of São Paulo and my main ca
 * **Development:** Git and Linux.
 * **Data Visualization:** Matplotlib, Plotly, Seaborn and Tableau.
 * **Machine Learning Modeling:** Classification, Regression and Clustering.
-
+* **Machine Learning Deployment:** Heroku
+ 
+## Data Science Projects:
+ 
+### [Star Jeans - (Data Engineering) ETL Project](https://github.com/Lucas-Okamura/StarJeans)
+  * Business problem adresssed: Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful business, they are planning to enter the fashion market as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case the product would be Jeans for the male audience. Then, the objective is to maintain the operating cost low and scale as they get customers.
+  * So this project went through the entire data pipeline, from the extraction to the architecture of an airflow automation.
+  * Repository: https://github.com/Lucas-Okamura/StarJeans
+ 
 ## Skills
 
 <table>
@@ -41,7 +49,7 @@ I am a mechanical engineering student at University of São Paulo and my main ca
       </td>
       <td width="25%" align="center">
         <span>NumPy</span><br><br>
-        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+        <img height="64px" src="	https://numpy.org/images/logo.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -63,6 +71,14 @@ I am a mechanical engineering student at University of São Paulo and my main ca
       </td>
     <tr valign="top">
       <td width="25%" align="center">
+        <span>Flask</span><br><br>
+        <img height="64px" src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Heroku</span><br><br>
+        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+      </td>
+      <td width="25%" align="center">
         <span>statsmodels</span><br><br>
         <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
       </td>
@@ -70,7 +86,7 @@ I am a mechanical engineering student at University of São Paulo and my main ca
         <span>Git / GitHub</span><br><br>
         <img height="64px" src="https://git-scm.com/images/logo@2x.png">
       </td>
-    </tr>
+   </tr>
   </tbody>
 </table>
 
