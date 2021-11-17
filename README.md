@@ -26,9 +26,11 @@ I am a mechanical engineering student at University of São Paulo and my main ca
 ## Data Science Projects:
  
 ### [Star Jeans - (Data Engineering) ETL Project](https://github.com/Lucas-Okamura/StarJeans)
-  * Business problem adresssed: Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful business, they are planning to enter the fashion market as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case the product would be Jeans for the male audience. Then, the objective is to maintain the operating cost low and scale as they get customers.
+  * Business problem adressed: Eduardo and Marcelo are two Brazilians, friends and business partners. After several successful business, they are planning to enter the fashion market as an E-commerce business model. The initial idea is to enter the market with just one product and for a specific audience, in this case the product would be Jeans for the male audience. Then, the objective is to maintain the operating cost low and scale as they get customers.
   * So this project went through the entire data pipeline, from the extraction to the architecture of an airflow automation.
-  * Repository: https://github.com/Lucas-Okamura/StarJeans
+ 
+### [Rossmann Store - Forecasting Sales](https://github.com/Lucas-Okamura/RossmannStoreSales)
+  * Rossmann Stores sales forecast 6 weeks ahead. Rossmann's CFO needs this information to advance revenue to renovate stores, based on each store prediction. Final model used is a XGBoost Regressor, which obtained a MAPE of 9.81%, predicting a total income of $ 285 million for all stores.
  
 ## Skills
 
