@@ -32,6 +32,10 @@ I am a mechanical engineering student at University of São Paulo and my main ca
 ### [Rossmann Store - Forecasting Sales](https://github.com/Lucas-Okamura/RossmannStoreSales)
   * Rossmann Stores sales forecast 6 weeks ahead. Rossmann's CFO needs this information to advance revenue to renovate stores, based on each store prediction. Final model used is a XGBoost Regressor, which obtained a MAPE of 9.81%, predicting a total income of $ 285 million for all stores.
  
+### [Portfolio Strategy Loft - Sugesting apartment purchase (Portuguese)](https://github.com/Lucas-Okamura/Portfolio-Strategy-Loft)
+  * The Loft's Portfolio Strategy team is responsible for defining which apartments should be listed in its platform or bet on the purcharse, so that the company continues growing. The decisions made by this team influences directly on the company's portfolio liquidity and risk.
+  * A Survival Analysis was made in order to evaluate the best apartments to purchase, evaluating mainly the relation between liquidity and price.
+
 ## Skills
 
 <table>
