@@ -55,7 +55,7 @@ I am a mechanical engineering student at University of São Paulo and my main ca
       </td>
       <td width="25%" align="center">
         <span>NumPy</span><br><br>
-        <img height="64px" src="	https://numpy.org/images/logo.svg">
+        <img height="64px" src="https://numpy.org/images/logo.svg">
       </td>
     </tr>
     <tr valign="top">
