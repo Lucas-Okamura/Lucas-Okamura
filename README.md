@@ -31,6 +31,10 @@ I am a mechanical engineering student at University of São Paulo and my main ca
  
 ### [Rossmann Store - Forecasting Sales](https://github.com/Lucas-Okamura/RossmannStoreSales)
   * Rossmann Stores sales forecast 6 weeks ahead. Rossmann's CFO needs this information to advance revenue to renovate stores, based on each store prediction. Final model used is a XGBoost Regressor, which obtained a MAPE of 9.81%, predicting a total income of $ 285 million for all stores.
+ 
+### [Health Insurance - Cross Sell](https://github.com/Lucas-Okamura/Health-Insurance-Cross-Sell)
+  * A Health Insurance company is analysing the possibility to offer their clients a new product: a car insurance. As well as the health insurance, the clients of this new product should pay annually to obtain a certain value assured by the company, for their cars. Thus, the company should use a strategy to select the most propense customers to make a call and offer their new product.
+  * Final model used is a Logistic Regression, that is roughly 2.5 times better than the baseline random model, finding 62.28% of the interested customers within the company capacity to make calls.
 
 ## Skills
 
