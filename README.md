@@ -12,7 +12,7 @@
  
  ### About me
  
-I am a mechanical engineering student at University of São Paulo and my main career interest is to work as a Data Scientist. Since the beginning of the graduation I was interested in programming and it made me search for knowledge beyond the basic taught in classes, through online courses and participations in Hackathons. I seek to work in areas involving AI, Data Science and Machine Learning, aiming to use techniques for developing predictive models to analyze data and obtain insights for solving different scenarios. In my GitHub profile you will find my personal projects, developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using APIs.
+I am a mechanical engineer graduated from University of São Paulo and I work as a Data Scientist at Loft. Since the beginning of the graduation I was interested in programming and it made me search for knowledge beyond the basic taught in classes, through online courses and participations in Hackathons. I seek to work in areas involving AI, Data Science and Machine Learning, aiming to use techniques for developing predictive models to analyze data and obtain insights for solving different scenarios. In my GitHub profile you will find my personal projects, developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using APIs.
   
  **Analytical Tools:**
 
