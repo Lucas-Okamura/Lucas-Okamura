@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-Lucas--Okamura-red)](https://www.linkedin.com/in/lucas-okamura/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Lucas-Okamura/Lucas-Okamura/issues)
+[![author](https://img.shields.io/badge/author-Lucas--Okamura-red)](https://www.linkedin.com/in/lucas-okamura/)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Lucas-Okamura/Lucas-Okamura/issues)
 
 
 ## Hi, how are you? My name is Lucas Okamura! 👋
