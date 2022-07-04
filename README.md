@@ -30,11 +30,16 @@ I am a mechanical engineer graduated from University of São Paulo and I work as
   * So this project went through the entire data pipeline, from the extraction to the architecture of an airflow automation.
  
 ### [Rossmann Store - Forecasting Sales](https://github.com/Lucas-Okamura/RossmannStoreSales)
-  * Rossmann Stores sales forecast 6 weeks ahead. Rossmann's CFO needs this information to advance revenue to renovate stores, based on each store prediction. Final model used is a XGBoost Regressor, which obtained a MAPE of 9.81%, predicting a total income of $ 285 million for all stores.
+  * Rossmann Stores sales forecast 6 weeks ahead. Rossmann's CFO needs this information to advance revenue to renovate stores, based on each store prediction. 
+  * Final model used is a XGBoost Regressor, which obtained a MAPE of 9.81%, predicting a total income of $ 285 million for all stores.
  
 ### [Health Insurance - Cross Sell](https://github.com/Lucas-Okamura/Health-Insurance-Cross-Sell)
   * A Health Insurance company is analysing the possibility to offer their clients a new product: a car insurance. As well as the health insurance, the clients of this new product should pay annually to obtain a certain value assured by the company, for their cars. Thus, the company should use a strategy to select the most propense customers to make a call and offer their new product.
   * Final model used is a Logistic Regression, that is roughly 2.5 times better than the baseline random model, finding 62.28% of the interested customers within the company capacity to make calls.
+  
+ ### [Insiders Clustering](https://github.com/Lucas-Okamura/Insiders-Clustering)
+  * The company All in One Place is a Multibrand Outlet company, i.e., it sells second line products of various brands at a lower price, through an e-commerce platform. In 1 year of operation, the marketing team realized that some customers in its base buy more expensive products with high frequency and end up contributing with a significant portion of the company's revenue. Based on this perception, the marketing team will launch a loyalty program for the best customers in the base, called Insiders. But the team does not have an advanced knowledge of data analysis to choose the program participants. For this reason, the marketing team asked the data team to select eligible customers for the program, using advanced data manipulation techniques.
+  * Final model used is a K-Means with Random Forest Embeddings, finding 8 clusters, which were loaded into a table in a AWS Database.
 
 ## Skills
 
