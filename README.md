@@ -37,9 +37,13 @@ I am a mechanical engineer graduated from University of São Paulo and I work as
   * A Health Insurance company is analysing the possibility to offer their clients a new product: a car insurance. As well as the health insurance, the clients of this new product should pay annually to obtain a certain value assured by the company, for their cars. Thus, the company should use a strategy to select the most propense customers to make a call and offer their new product.
   * Final model used is a Logistic Regression, that is roughly 2.5 times better than the baseline random model, finding 62.28% of the interested customers within the company capacity to make calls.
   
- ### [Insiders Clustering](https://github.com/Lucas-Okamura/Insiders-Clustering)
+ ### [Insiders - Clustering](https://github.com/Lucas-Okamura/Insiders-Clustering)
   * The company All in One Place is a Multibrand Outlet company, i.e., it sells second line products of various brands at a lower price, through an e-commerce platform. In 1 year of operation, the marketing team realized that some customers in its base buy more expensive products with high frequency and end up contributing with a significant portion of the company's revenue. Based on this perception, the marketing team will launch a loyalty program for the best customers in the base, called Insiders. But the team does not have an advanced knowledge of data analysis to choose the program participants. For this reason, the marketing team asked the data team to select eligible customers for the program, using advanced data manipulation techniques.
   * Final model used is a K-Means with Random Forest Embeddings, finding 8 clusters, which were loaded into a table in a AWS Database.
+  
+ ### [Eletronic House - A/B Testing](https://github.com/Lucas-Okamura/Eletronic-House-AB-Testing)
+  * Electronic House is an e-commerce company that sells computer products for homes and offices. The Director of Global Products asked the Head of Design to develop a new way to finalize the purchase with a credit card, without the need for the manually fill in all credit card information and that would work in all countries. After months of developing this device, the Backend Development team delivered a payment solution, in which 90% of the information on the information was filled in automatically.The Head of Designer would like to measure the effectiveness of the new the credit card data on the sales page and report the results to the Global Product Director, to conclude whether the new payment method is really better than the old one.
+  * hypothesis testing was used to identify a possible increase in value per customer on the site with this new feature. However, there was no statistical evidence that the new feature increased the value spent by customers on the site.
 
 ## Skills
 
