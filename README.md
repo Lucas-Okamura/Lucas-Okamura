@@ -16,12 +16,12 @@ I am a mechanical engineer graduated from University of São Paulo and I work as
   
  **Analytical Tools:**
 
-* **Data Collect and Storage:** SQL, MySQL, Hadoop.
-* **Data Processing and Analysis:** Python.
-* **Development:** Git and Linux.
+* **Data Collect and Storage:** SQL, MySQL, Hadoop, Spark.
+* **Data Processing and Analysis:** Python, SQL.
+* **Development:** Git and Shell Script.
 * **Data Visualization:** Matplotlib, Plotly, Seaborn and Tableau.
 * **Machine Learning Modeling:** Classification, Regression and Clustering.
-* **Machine Learning Deployment:** Heroku
+* **Machine Learning Deployment:** Heroku, AWS RDS, AWS EC2, AWS S3.
  
 ## Data Science Projects:
  
@@ -90,16 +90,22 @@ I am a mechanical engineer graduated from University of São Paulo and I work as
         <img height="64px" src="https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png">
       </td>
       <td width="25%" align="center">
-        <span>Heroku</span><br><br>
-        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
-      </td>
-      <td width="25%" align="center">
         <span>statsmodels</span><br><br>
         <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
       </td>
       <td width="25%" align="center">
         <span>Git / GitHub</span><br><br>
         <img height="64px" src="https://git-scm.com/images/logo@2x.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Heroku</span><br><br>
+        <img height="64px" src="https://blog.4linux.com.br/wp-content/uploads/2018/01/Heroku.png">
+      </td>
+   </tr>
+   <tr valign="top">
+      <td width="25%" align="center">
+        <span>AWS</span><br><br>
+        <img height="64px" src="https://www.sophos.com/sites/default/files/2022-02/aws-logo-white-orange.png">
       </td>
    </tr>
   </tbody>
