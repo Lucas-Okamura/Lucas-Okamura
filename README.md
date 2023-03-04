@@ -1,14 +1,11 @@
 [![author](https://img.shields.io/badge/author-Lucas--Okamura-red)](https://www.linkedin.com/in/lucas-okamura/)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Lucas-Okamura/Lucas-Okamura/issues)
 
 
+
 ## Hi, how are you? My name is Lucas Okamura! 👋
 
- <div>
-  <a href="https://github.com/Lucas-Okamura">
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Lucas-Okamura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Lucas-Okamura&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Okamura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Lucas-Okamura/github-readme-stats)
+
  ### About me
  
 I am a mechanical engineer graduated from University of São Paulo and I work as a Data Scientist at Loft. Since the beginning of the graduation I was interested in programming and it made me search for knowledge beyond the basic taught in classes, through online courses and participations in Hackathons. I seek to work in areas involving AI, Data Science and Machine Learning, aiming to use techniques for developing predictive models to analyze data and obtain insights for solving different scenarios. In my GitHub profile you will find my personal projects, developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using APIs.
